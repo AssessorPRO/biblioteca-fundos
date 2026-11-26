@@ -322,5 +322,53 @@
     "url": "https://www.santander.com.br/document/wps/L_0665.pdf",
     "periodo": "2026-10",
     "baixado_em": "2026-11-26T00:25:38"
+  },
+  "15740330000190.pdf": {
+    "nome": "PREV IMA-B RENDA FIXA CIC RESP LIMITADA",
+    "url": "https://www.santander.com.br/document/wps/L_1244.pdf",
+    "periodo": "2026-10",
+    "baixado_em": "2026-11-26T01:10:32"
+  },
+  "45384098000166.pdf": {
+    "nome": "PREV NTN-B 2028 RENDA FIXA VIP CIC RESP LIMITADA",
+    "url": "https://www.santander.com.br/document/wps/L_4336.pdf",
+    "periodo": "2026-10",
+    "baixado_em": "2026-11-26T01:10:33"
+  },
+  "47758302000197.pdf": {
+    "nome": "PREV NTN-B 2035 RENDA FIXA VIP CIC RESP LIMITADA",
+    "url": "https://www.santander.com.br/document/wps/L_4335.pdf",
+    "periodo": "2026-10",
+    "baixado_em": "2026-11-26T01:10:34"
+  },
+  "29549585000185.pdf": {
+    "nome": "PREV PB NTN-B 2028 RENDA FIXA CIC RESP LIMITADA",
+    "url": "https://www.santander.com.br/document/wps/L_1991.pdf",
+    "periodo": "2026-10",
+    "baixado_em": "2026-11-26T01:10:35"
+  },
+  "23682707000120.pdf": {
+    "nome": "PREV PB NTN-B 2035 RENDA FIXA CIC RESP LIMITADA",
+    "url": "https://www.santander.com.br/document/wps/L_1528.pdf",
+    "periodo": "2026-10",
+    "baixado_em": "2026-11-26T01:10:35"
+  },
+  "60829079000190.pdf": {
+    "nome": "SANTANDER PREV NTN-B 2050 ADVANCED RENDA FIXA - CIC RESPONSABILIDADE LIMITADA",
+    "url": "https://www.santander.com.br/document/wps/L_4695.pdf",
+    "periodo": "2026-10",
+    "baixado_em": "2026-11-26T01:10:36"
+  },
+  "40005789000198_2.pdf": {
+    "nome": "PREV INNOVATION DÓLAR 40 CIC FIF RESP LIMITADA",
+    "url": "https://www.santander.com.br/document/wps/L_4161.pdf",
+    "periodo": "2026-10",
+    "baixado_em": "2026-11-26T01:10:37"
+  },
+  "64900190000186.pdf": {
+    "nome": "ACESSO JGP PREV RENDA FIXA CRÉD PRIV-CIC FIF RESPONSABILIDADE LIMITADA",
+    "url": "https://www.santander.com.br/document/wps/L_4867.pdf",
+    "periodo": "2026-10",
+    "baixado_em": "2026-11-26T01:10:38"
   }
 }
